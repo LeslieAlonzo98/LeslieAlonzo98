@@ -1,0 +1,10 @@
+---
+title: "About Me"
+---
+<center>
+# Hi, I'm Leslie Alonzo.
+</center>
+I am a fourth year Geography major at UCSB. I'm from Escondido, California but currently live in Isla Vista. I enjoy gardening and using my film cameras.
+---
+![my profile picture](img/labimg.jpeg)
+---
