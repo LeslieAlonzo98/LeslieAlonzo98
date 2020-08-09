@@ -9,6 +9,10 @@ navbar:
     - text: "GIS Work"
       icon: fa-globe
       href: geog176A.html
+    - text: "CV"
+      icon: fa-pen
+      href: CV.html
+
   right:
     - icon: fa-github
       href: https://github.com/LeslieAlonzo98/LeslieAlonzo98
