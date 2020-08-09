@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+In the summer of 2020, I took a GIS course based in R. I wrote some code, and did some cool data science. Here is a collection of links!
+
+[Building a project website](https://github.com/LeslieAlonzo98/LeslieAlonzo98)
+
+- In this assignment we built a static users site with Github pages
+- I learned how to apply knowledge from previous activities to create files within my project
+- Familiarized myself with functions in Rstudio
+- Learned how to insert a picture and icons on RMarkdown

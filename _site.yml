@@ -1,0 +1,17 @@
+name: "first-website"
+output_dir: "."
+navbar:
+  title: "Leslie's Website"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-globe
+      href: geog176A.html
+  right:
+    - icon: fa-github
+      href: https://github.com/LeslieAlonzo98/LeslieAlonzo98
+output:
+  html_document:
+    theme: journal
