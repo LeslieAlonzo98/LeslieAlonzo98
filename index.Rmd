@@ -5,6 +5,17 @@ title: "About Me"
 # Hi, I'm Leslie Alonzo.
 </center>
 I am a fourth year Geography major at UCSB. I'm from Escondido, California but currently live in Isla Vista. I enjoy gardening and using my film cameras.
+
+Through the Geography 176A course, I learned how to map all sorts of data through R. For example, one of our labs focused on using COVID-19 data to map what parts of the U.S. were experiencing the most cases. I really enjoyed getting to see the map results of my codes come to life. 
+
+I learned so many features within R. Such as, importing libraries from outside sources, importing data, and creating my own functions.
+
+Email: LAALONZO@UCSB.EDU
+
+GitHub: https://github.com/LeslieAlonzo98
 ---
+<center>
 ![my profile picture](img/labimg.jpeg)
+</center>
+
 ---

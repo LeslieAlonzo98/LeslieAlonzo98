@@ -4,10 +4,14 @@ title: "Leslie Alonzo"
 
 ## Education
 
-* UCSB, Geography B.A., **2020**
+* UCSB, Geography B.A., **Graduation: 2020**
 
 
 ## Experience
 
 * ZWorld GIS, Intern **2018-2019**  
+
+ At my internship, I used ArcMap to create an updated map of buildings and structures in Santa Barbara county 
+
 * Latino Business Association (UCSB), Member **2016-2018**
+
